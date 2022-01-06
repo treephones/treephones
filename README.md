@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **compiler design.**
 
+- 💻 My personal site: **www.moez.io**
+
 - 📫 How to reach me: **moezbajwa@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
