@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an interpreted programming language.**
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **compiler design.**
 
 - 📫 How to reach me: **moezbajwa@hotmail.com**
 
