@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=treephones&label=Profile%20views&color=0e75b6&style=flat" alt="treephones" /> </p>
 
-- 🔭 I’m currently working on **an interpreted programming language.**
-
-- 🌱 I’m currently learning **compiler design.**
+- 🔭 I’m currently working on **block game craft help thingy.**
 
 - 💻 My personal site: **www.moez.io**
 
